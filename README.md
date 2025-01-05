@@ -1,5 +1,5 @@
 # Headtracking
-This is a python based headtracking system, and I am not giving a demo because I have to use my face so you download you test!
+This is a python based headtracking system, and I am not giving a demo because I have to use my face so you download you test!(Change in plan I am providing a demo, but I am still keeping the html and css file in the repo )
 # Head and Eye Tracking with OpenCV and Mediapipe
 
 This project demonstrates real-time head and eye tracking using OpenCV and Mediapipe's Face Mesh module. The program captures video from the webcam, detects facial landmarks, and overlays mesh connections on the detected face and eyes.
