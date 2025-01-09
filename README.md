@@ -50,6 +50,11 @@ When running the program, you will see a live video feed with:
 - If the webcam feed does not appear, ensure that your webcam is properly connected and accessible.
 - Ensure all dependencies are installed correctly.
 
+## Update
+-Improved performance
+-Implemented lip tracking
+-Enhanced Eye tracking
+
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as long as the original copyright is included.
 
